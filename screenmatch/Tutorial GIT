@@ -1,0 +1,5 @@
+git clone + link
+git add + arquivo
+git commit -m "mensagem"
+git push - subir p github
+git pull - puxar
